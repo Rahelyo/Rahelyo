@@ -10,11 +10,21 @@ Ao longo dessa trajetória, percebi que o próximo passo natural seria unir tudo
 Hoje, busco aplicar essa combinação única de experiências — indústria, finanças e análise de dados — para gerar valor em ambientes que exigem visão sistêmica, senso crítico e curiosidade técnica. Acredito que a verdadeira ciência de dados nasce na intersecção entre o conhecimento do negócio, domínio das ferramentas analíticas e pessoas— e é exatamente nesse ponto que minha trajetória encontra o seu novo propósito.
 Sou um profissional em transição, sim — mas uma transição natural e estratégica: de quem sempre trabalhou com dados, processos, resultados com e para pessoas, e agora utiliza ciência, estatística e tecnologia para descobrir o que os números podem agregar.
 
-
+########## Detalhes ##########
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahelyo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+########## Projetos ##########
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=Rahelyo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
 
 
 
