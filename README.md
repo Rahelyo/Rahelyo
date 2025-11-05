@@ -11,6 +11,7 @@ Hoje, busco aplicar essa combinação única de experiências — indústria, fi
 Sou um profissional em transição, sim — mas uma transição natural e estratégica: de quem sempre trabalhou com dados, processos, resultados com e para pessoas, e agora utiliza ciência, estatística e tecnologia para descobrir o que os números podem agregar.
 
 ########## Detalhes ##########
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahelyo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ########## Projetos ##########
@@ -25,7 +26,7 @@ Sou um profissional em transição, sim — mas uma transição natural e estrat
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://[www.linkedin.com/in/rahelyo-c-braga-801677145/])
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://[www.linkedin.com/in/rahelyo-c-braga/])
 
 
 
