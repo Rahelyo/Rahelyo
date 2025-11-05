@@ -14,12 +14,6 @@ Sou um profissional em transição, sim — mas uma transição natural e estrat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahelyo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-########## Projetos ##########
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=DiagnosticoHipertiroidismo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=ProjetosConclusaoCientistaDadosEBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahelyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
