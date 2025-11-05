@@ -11,7 +11,7 @@ Hoje, busco aplicar essa combinação única de experiências — indústria, fi
 Sou um profissional em transição, sim — mas uma transição natural e estratégica: de quem sempre trabalhou com dados, processos, resultados com e para pessoas, e agora utiliza ciência, estatística e tecnologia para descobrir o que os números podem agregar.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahelyoshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahelyo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
