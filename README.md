@@ -15,16 +15,17 @@ Sou um profissional em transição, sim — mas uma transição natural e estrat
 
 ########## Projetos ##########
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=Rahelyo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=DiagnosticoHipertiroidismo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rahelyo&repo=ProjetosConclusaoCientistaDadosEBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahelyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://[www.linkedin.com/in/pedrobrocaldi/](https://www.linkedin.com/in/rahelyo-c-braga-801677145/))
 
 
 
